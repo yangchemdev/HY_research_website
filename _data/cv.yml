@@ -4,15 +4,13 @@ cv:
   email: yang2285@purdue.edu
   location: West Lafayette, IN
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Material chemist with expertise in hybrid materials and strong ultrafast spectroscopy interest.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: yangchemdev
     - network: LinkedIn
-      username: example
+      username: hanjun-yang
 
   address:
     street: 560 Oval Drive
@@ -23,18 +21,16 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Brown University
+        location: Rhode Island, US
+        url:  
+        area: Chemistry
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2016
+        end_date: 2021
         score: ""
-        courses: "Theory of Relativity"
+        courses: "Development of perovskite quantum dots"
         highlights:
-          - Description 1.
-          - Description 2.
 
       - institution: Eidgenössische Technische Hochschule
         location: Zurich, Switzerland

@@ -1,7 +1,7 @@
 cv:
   name: Hanjun Yang
   label: Post-doctoral research associate
-  email: yang2285@purdue.edu
+  email: hyang_work@outlook.com
   location: West Lafayette, IN
   image: ""
   summary: Material chemist with expertise in hybrid materials and strong ultrafast spectroscopy interest.
@@ -22,92 +22,51 @@ cv:
   sections:
     Education:
       - institution: Brown University
-        location: Rhode Island, US
+        location: Providence, RI
         url:  
-        area: Chemistry
-        studyType: PhD
+        area: 
+        studyType: Ph. D in Chemistry
         start_date: 2016
         end_date: 2021
         score: ""
-        courses: "Development of perovskite quantum dots"
+        courses: "Study of perovskite quantum dots synthesis and modification."
         highlights:
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Peking University
+        location: Beijing, China
+        area: Chemistry
+        studyType: Bachelor's degree in Chemistry
+        start_date: 2012
+        end_date: 2016
         highlights:
-          - Description 1.
-          - Description 2.
-
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+    Research Experience:
+      - company: Purdue University
+        position: Post-doctoral research associate
+        location: West Lafayette, IN
+        start_date: 2022
+        end_date: Present
         highlights:
-          - Relativity
-          - Description 2.
+          - asdf
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+
+      - company: Brown University
+        position: Graduate research assistant, Post-doctoral research associate
+        location: Providence, RI
+        start_date: 2016
+        end_date: 2021
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+        - Test text
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: WIP1
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "WIP2"
+        date: 2021
+        awarder: WIP3
+        url:
+        summary:
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
+    Selected Publications:
       - title: Zur Elektrodynamik bewegter Körper
         authors:
           - Albert Einstein
